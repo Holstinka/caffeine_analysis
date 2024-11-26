@@ -17,4 +17,4 @@
 
 ## Используемые библиотеки
 
-pandas, numpy, matplotlib, seaborn, plotly
+pandas, matplotlib, seaborn, plotly
